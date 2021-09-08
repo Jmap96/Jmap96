@@ -3,6 +3,7 @@
 *Soy estudiante en Ingeniería Industrial y apasionado por la Ciencia y la Tecnología.
 Dicho lo anterior, Bienvenido a mi proyecto para convertirme en Data Scientist.*
 
+💪🏽👨🏽‍💻 Estoy estudiando:
 
 <p>
       Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a>&nbsp;

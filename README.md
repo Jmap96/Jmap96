@@ -1,13 +1,17 @@
-### Hi there 👋🏽👊🏽
-<h1 align="center">Hi 👋, I'm Juan Miguel</h1>
-<h3 align="center">Soy estudiante en Ingenieria Industrial y apasionado por la ciencia de datos. Asi que, bievenido este es mi proyecto para volverme Data Scientist.</h3>
+### *Hi there 👋🏽👊🏽 I'm Juan Miguel*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/juan miguel avila perez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan miguel avila perez" height="30" width="40" /></a>
-</p>
+*Soy estudiante en Ingeniería Industrial y apasionado por la Ciencia y la Tecnología.
+Dicho lo anterior, Bienvenido a mi proyecto para convertirme en Data Scientist.*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p>
+      Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a>&nbsp;
+      Jupyter <a href="https://jupyter.org/" title="Jupyter"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jupyter.svg" alt="Jupyter" width="21px" height="21px"></a>&nbsp;
+      Numpy <a href="https://numpy.org/" title="Numpy"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="21px" height="21px"></a>&nbsp;
+      Pandas <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/pandas.svg" alt="Pandas" width="21px" height="21px"></a>&nbsp;
+       <a href="https://www.r-project.org/about.html" title="R Language"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/r-lang.svg" alt="R" width="21px" height="21px"></a>&nbsp;
+      MySQL <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="21px" height="21px"></a>&nbsp;
+      Git <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>&nbsp;
+      VS Code <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>&nbsp;
+  </p>
 
